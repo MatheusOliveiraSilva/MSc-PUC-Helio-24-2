@@ -1,10 +1,10 @@
 # helio-24-2
 Repository intended for the work of the discipline "Computer Vision" taught by professor Hélio in 2024.2
 
-Para testar o programa, basta instalar `pip install -r requisitos.txt` e executar `python main.py`.
+To test the program, simply install `pip install -r requirements.txt` and run `python main.py`.
 
-Caso não funcione de cara, pode ser porque você não possui uma câmera de index=1, vá em `utils/video_stream.py` e veja o que pode ser feito (mudar o index de 1 para 0 pode ajudar).
+If it doesn't work right away, it may be because you don't have a camera with index=1, go to `utils/video_stream.py` and see what can be done (changing the index from 1 to 0 may help).
 
-Quaisquer outros bugs que você queira resolver, essa é a única questão de compatibilidade.
+Any other bugs you want to resolve, that's the only compatibility issue.
 
-Slides da apresentação: [link](https://docs.google.com/presentation/d/1VCCOvzOLNf1yOytl5cuiUQDlIbFhyCQIjWK5moI7Oi8/edit?usp=sharing)
+Presentation slides: [link](https://docs.google.com/presentation/d/1VCCOvzOLNf1yOytl5cuiUQDlIbFhyCQIjWK5moI7Oi8/edit?usp=sharing)
